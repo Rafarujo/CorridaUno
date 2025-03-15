@@ -1,0 +1,74 @@
+{
+  "objects": [
+    {
+      "type": "track",
+      "x": 450,
+      "y": 150
+    },
+    {
+      "type": "track",
+      "x": 500,
+      "y": 150
+    },
+    {
+      "type": "track",
+      "x": 450,
+      "y": 150
+    },
+    {
+      "type": "track",
+      "x": 450,
+      "y": 150
+    },
+    {
+      "type": "track",
+      "x": 550,
+      "y": 150
+    },
+    {
+      "type": "track",
+      "x": 98,
+      "y": 196
+    },
+    {
+      "type": "track",
+      "x": 392,
+      "y": 196
+    },
+    {
+      "type": "track",
+      "x": 490,
+      "y": 196
+    },
+    {
+      "type": "track",
+      "x": 588,
+      "y": 196
+    },
+    {
+      "type": "building",
+      "x": 98,
+      "y": 294
+    },
+    {
+      "type": "building",
+      "x": 490,
+      "y": 294
+    },
+    {
+      "type": "building",
+      "x": 588,
+      "y": 98
+    },
+    {
+      "type": "building",
+      "x": 588,
+      "y": 294
+    },
+    {
+      "type": "building",
+      "x": 784,
+      "y": 392
+    }
+  ]
+}

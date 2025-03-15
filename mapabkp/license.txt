@@ -1,0 +1,11 @@
+Model Information:
+* title:	gm_goldencity_day_v2
+* source:	https://sketchfab.com/3d-models/gm-goldencity-day-v2-c1c4ebcdbc71425a8ce42993bc2d201f
+* author:	hugomartinpadillarocha (https://sketchfab.com/hugomartinpadillarocha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gm_goldencity_day_v2" (https://sketchfab.com/3d-models/gm-goldencity-day-v2-c1c4ebcdbc71425a8ce42993bc2d201f) by hugomartinpadillarocha (https://sketchfab.com/hugomartinpadillarocha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
